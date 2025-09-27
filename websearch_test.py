@@ -6,7 +6,7 @@ from agents import Agent, Runner, WebSearchTool
 
 async def test_agent_with_web_search():
     # Set your OpenAI API key (ensure this is done before any agent initialization)
-    os.environ["OPENAI_API_KEY"] = "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"
+    os.environ["OPENAI_API_KEY"] = "sk-**************"
 
     # Specify the agent ID
     agent_id = "asst_SQi9qtibh5QNdVaZaNz95Ugn"
